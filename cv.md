@@ -1,8 +1,7 @@
 # <div style=" text-align:center"> Мишенков Даниил </div>
+<div style=" text-align:center"> Обучающийся 2-го курса ИВТ МФТИ </div>
 
-## Обо мне
-- Обучающийся 2-го курса ИВТ МФТИ;
-- Дата рождения: 17.09.2004;
+
 
 ## Контакты
 - mishenkovdaniil@mail.ru
