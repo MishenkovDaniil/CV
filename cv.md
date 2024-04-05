@@ -8,7 +8,7 @@
 - https://vk.com/id207036494
 - https://t.me/bubonno — *предпочтительный способ связи*
 
-## Стэк
+## Hard skills
 - Языки программирования: C/C++, Nasm;
 - Другое: MarkDown, Git, SFML.
 
